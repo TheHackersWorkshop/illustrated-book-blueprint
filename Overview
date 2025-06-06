@@ -1,0 +1,32 @@
+This guide outlines a structured process for creating an illustrated book—from planning and visualization to layout and publishing—using open-source tools and a storyboard-driven workflow. It is designed for creators who want to manage every step themselves, with full creative ownership of both text and artwork.
+
+
+
+Overview of Process
+The focus of this method is planning first, execution second. The workflow assumes the creator will handle writing, illustration, and layout in-house, using software as tools—not as content generators.
+
+The process emphasizes:
+
+Visualizing the entire book before starting
+Using consistent 3D posing for illustration reference
+Building all components directly into a final-layout template from day one
+Minimizing rework by assembling the book as a unified system
+
+ 
+
+Tools Used
+ 
+
+Task | Tool
+
+Writing & Layout | LibreOffice Writer (final trim size from the start)
+
+Storyboarding / Pose Reference | Blender
+
+Illustration (Line Art / Final Art) | GIMP or Inkscape
+
+File Export & Print Formatting | LibreOffice + PDF Export
+
+Optional Video Adaptation | Blender (animation + renders)
+
+Publishing | KDP, IngramSpark, or other POD options
