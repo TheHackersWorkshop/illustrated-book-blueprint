@@ -35,4 +35,8 @@ Step 5: Backup and Version Archive
 Store all project files in clearly labeled folders:
 Keep a README.txt with version notes and dates to document the development process.
 
-## For deeper insights into the publishing process, including practical tips and industry knowledge, I highly recommend following Bethany Atazadeh’s YouTube channel. Her content has been my trusted source for up-to-date, reliable information on self-publishing and navigating the complexities of finalizing your book for print and digital release.
+## For deeper insights into the publishing process, including practical tips and industry knowledge, I highly recommend following Bethany Atazadeh’s YouTube channel.
+
+https://www.youtube.com/@BethanyAtazadeh
+
+Her content has been my trusted source for up-to-date, reliable information on self-publishing and navigating the complexities of finalizing your book for print and digital release.
